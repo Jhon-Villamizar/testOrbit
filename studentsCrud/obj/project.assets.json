@@ -8789,11 +8789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jhon\\Ejercicios\\dotnetCore\\crudCoreAngular\\studentsCrud\\studentsCrud.csproj",
+      "projectUniqueName": "C:\\Jhon\\Ejercicios\\dotnetCore\\testOrbit\\studentsCrud\\studentsCrud.csproj",
       "projectName": "studentsCrud",
-      "projectPath": "C:\\Jhon\\Ejercicios\\dotnetCore\\crudCoreAngular\\studentsCrud\\studentsCrud.csproj",
+      "projectPath": "C:\\Jhon\\Ejercicios\\dotnetCore\\testOrbit\\studentsCrud\\studentsCrud.csproj",
       "packagesPath": "C:\\Users\\jhonv\\.nuget\\packages\\",
-      "outputPath": "C:\\Jhon\\Ejercicios\\dotnetCore\\crudCoreAngular\\studentsCrud\\obj\\",
+      "outputPath": "C:\\Jhon\\Ejercicios\\dotnetCore\\testOrbit\\studentsCrud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhonv\\AppData\\Roaming\\NuGet\\NuGet.Config"

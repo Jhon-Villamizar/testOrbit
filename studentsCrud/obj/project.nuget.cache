@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tAI6zYvoPgt0qtohfhTEmgrtlxsYvRvKSVJwVLr1l2MrLdjylOdzpg+MdlEF9R+uunRa4hGUTYwCE+Ma8SzbtQ==",
+  "dgSpecHash": "jEV0BhFZT0/thakfQP+KQ7RoTTUsky55USKQCiLpnMstFv2slhpuPssz+bbXG6CgFkkVJABA7PYXgC4K0bbLqA==",
   "success": true,
-  "projectFilePath": "C:\\Jhon\\Ejercicios\\dotnetCore\\crudCoreAngular\\studentsCrud\\studentsCrud.csproj",
+  "projectFilePath": "C:\\Jhon\\Ejercicios\\dotnetCore\\testOrbit\\studentsCrud\\studentsCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhonv\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\jhonv\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
